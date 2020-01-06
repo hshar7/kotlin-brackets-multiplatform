@@ -1,0 +1,4 @@
+rootProject.name = 'brackets'
+
+
+enableFeaturePreview('GRADLE_METADATA')
